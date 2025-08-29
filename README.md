@@ -35,8 +35,3 @@
 
 ---
 
-## 📫 Contact  
-
-For any queries or collaboration, feel free to connect:  
-
-🌐 [LinkedIn](www.linkedin.com/in/koukuntla-varsha) | 📧 varsha7032012@gmail.com
