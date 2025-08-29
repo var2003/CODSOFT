@@ -30,3 +30,13 @@
 ---
 
 ## 📂 Repository Structure
+
+├── Task-1 │   └── movie_genre_classification.ipynb ├── Task-2 │   └── credit_card_fraud_detection.ipynb ├── Task-3 │   └── customer_churn_prediction.ipynb ├── Task-4 │   └── spam_sms_detection.ipynb └── README.md
+
+---
+
+## 📫 Contact  
+
+For any queries or collaboration, feel free to connect:  
+
+🌐 [LinkedIn](www.linkedin.com/in/koukuntla-varsha) | 📧 varsha7032012@gmail.com
