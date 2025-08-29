@@ -68,5 +68,5 @@ Reducing false positives and false negatives for better fraud detection.
 🚀 This project provides a real-world application of machine learning in cybersecurity and financial fraud detection. Explore, experiment, and enhance!
 <br>
 <br>
-Author - Harshita Singh
+
 
